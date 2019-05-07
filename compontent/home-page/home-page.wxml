@@ -1,0 +1,16 @@
+<view class="box">
+  <view class='header'>
+    <view>
+      <text>北京</text>
+      <image src="../../img/up.png"></image>
+    </view>
+    <view>
+      <input placeholder='输入商户名、地点、找优惠'></input>
+    </view>
+    <view>
+      <image src="../../img/user.png"></image>
+      <text>我的</text>
+    </view>
+  </view>
+</view>
+
