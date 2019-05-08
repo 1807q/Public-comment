@@ -11,8 +11,8 @@
       <image src="../../img/user.png"></image>
       <text>我的</text>
     </view>
+     <view class="search"><image src="../../img/search.png"></image></view>
   </view>
-  <view class="search"><image src="../../img/search.png"></image></view>
   <view class="section">
     <view class="logo_a">
       <image src="../../img/3_15.png"></image>
@@ -90,7 +90,31 @@
   </view> 
   <view class="like">猜你喜欢</view>
   <view class="content">
-    <view><image src="../../img/2_03.png"></image></view>
+    <view>
+      <view><image src="../../img/2_03.png"></image></view>
+      <view class="right">
+        <view>
+          <text>过生态麻辣烫</text>
+          <view>
+            <image src="../../img/left.png"></image>
+            <text>100m</text>
+          </view>
+        </view>
+        <view>
+          无解肥及违法和违法和四大VHIV号呢福馁id吧咦女妮妮我死哦非常你问你win个我吧尼恩日建瓯盘放进去欧派11位一年底哦班农女你
+        </view>
+        <view>
+          <view>
+            <text>￥45</text>
+            <view>
+              ￥
+              <text>45</text>
+            </view>
+          </view>
+          <view>已手6</view>
+        </view>
+      </view>
+    </view>
   </view>
 </view>
 

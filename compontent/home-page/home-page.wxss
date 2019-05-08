@@ -10,6 +10,10 @@
   justify-content: space-between;
   padding: 0 20rpx;
   box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: white;
 }
 .header>view:nth-of-type(1)>image{
   width: 30rpx;
@@ -60,9 +64,8 @@
   height: 100%;
 }
 .section{
+  margin-top: 65rpx;
   width: 100%;
-  /* height: 500rpx; */
-  /* background: red; */
   display: flex;
   flex-wrap: wrap;
   padding: 20rpx 0;
@@ -140,4 +143,81 @@
   width: 100%;
   display: flex;
   flex-direction: column;
+  padding: 0 20rpx;
+  box-sizing: border-box;
+}
+.content>view{
+ width: 100%;
+ height: 230rpx;
+ border-bottom: 1rpx solid #E8E8E8;
+ box-sizing: border-box;
+ padding: 20rpx 0;
+ /* background: red; */
+ display: flex;
+   justify-content: space-between;
+}
+.content>view>view:nth-of-type(1){
+  width:180rpx;
+  height: 190rpx;
+}
+.content>view>view:nth-of-type(1)>image{
+  width: 100%;
+  height: 100%;
+}
+.right{
+  width: 515rpx;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.right>view:nth-of-type(1){
+  width: 100%;
+  height: 50rpx;
+  line-height: 50rpx;
+  justify-content: space-between;
+  display: flex;
+}
+.right>view:nth-of-type(1)>view>image{
+  width: 20rpx;
+  height: 20rpx;
+}
+.right>view:nth-of-type(1)>text{
+ font-weight: bold;
+ /* font-size: 30rpx; */
+}
+.right>view:nth-of-type(1)>view>text{
+  font-size: 20rpx;
+  color: #8A8A8A
+}
+.right>view:nth-of-type(2){
+  width: 100%;
+  font-size: 30rpx;
+  color: #9A9A9A;
+ overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.right>view:nth-of-type(3){
+  display: flex;
+  justify-content: space-between;
+  font-size: 30rpx;
+  color: #797979;
+  align-items: flex-end;
+}
+.right>view:nth-of-type(3)>view:nth-of-type(1){
+  display: flex;
+}
+.right>view:nth-of-type(3)>view:nth-of-type(1)>text{
+  font-size: 40rpx;
+  color: #FF6636;
+  font-weight: bold;
+}
+.right>view:nth-of-type(3)>view:nth-of-type(1)>view>text{
+  text-decoration: line-through;
+}
+.right>view:nth-of-type(3)>view:nth-of-type(1)>view{
+  margin-top: 13rpx;
 }
