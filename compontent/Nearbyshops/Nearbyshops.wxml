@@ -1,0 +1,94 @@
+<!--compontent/Nearbyshops/Nearbyshops.wxml-->
+<view class='Nearbyshops'>
+  <view class='header'>
+    <view>
+      500米
+      <image src='../../img/down.png'></image>
+    </view>
+    <view>
+      理我最近
+      <image src='../../img/xia.png'></image>
+    </view>
+  </view>
+  <view class="logo">
+    <view>
+      <image src="../../img/2_03.png"></image>
+    </view>
+    <view class="right">
+      <view>HaveFun!有饭(西二旗店)</view>
+      <view>
+        <view>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/789.png"></image>
+        </view>
+        <view> ￥41/人</view>
+      </view>
+      <view>
+        草桥  北京菜<text>855米</text>
+      </view>
+      <view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+      </view>
+    </view>
+  </view>
+  <view class="logo">
+    <view>
+      <image src="../../img/2_03.png"></image>
+    </view>
+    <view class="right">
+      <view>HaveFun!有饭(西二旗店)</view>
+      <view>
+        <view>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/789.png"></image>
+        </view>
+        <view> ￥41/人</view>
+      </view>
+      <view>
+        草桥  北京菜<text>855米</text>
+      </view>
+      <view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+      </view>
+    </view>
+  </view>
+  <view class="logo">
+    <view>
+      <image src="../../img/2_03.png"></image>
+    </view>
+    <view class="right">
+      <view>HaveFun!有饭(西二旗店)</view>
+      <view>
+        <view>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/987.png"></image>
+          <image src="../../img/789.png"></image>
+        </view>
+        <view> ￥41/人</view>
+      </view>
+      <view>
+        草桥  北京菜<text>855米</text>
+      </view>
+      <view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+        <view>古色古香</view>
+      </view>
+    </view>
+  </view>
+</view>
