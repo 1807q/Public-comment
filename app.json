@@ -1,6 +1,6 @@
 {
   "pages": [
-    
+    "compontent/detail/detail",
     "compontent/home-page/home-page",
     "compontent/City/City",
     "compontent/personal/personal",

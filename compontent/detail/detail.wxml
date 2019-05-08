@@ -1,0 +1,59 @@
+<!--compontent/detail/detail.wxml-->
+<view class="box">
+<view class="header">
+  <view class="logo">
+    <view><image src="../../img/2_03.png"></image></view>
+    <view class="right">
+      <view>HaveFun!有饭(西二旗店)</view>
+      <view>
+        <view>
+          <image src="../../img/start_up.png"></image>
+          <image src="../../img/start_up.png"></image>
+          <image src="../../img/start_up.png"></image>
+          <image src="../../img/start_up.png"></image>
+          <image src="../../img/start_down.png"></image>
+        </view>
+        <view>559条 ￥41/人</view>
+      </view>
+      <view>口味:7.8 环境:8.3 服务:8.1</view>
+      <view>上地   快餐简餐</view>
+    </view>
+  </view>
+  <view class="timer">
+    <view>
+      <image src="../../img/2_06.png"></image>
+      <text>营业至21:00</text>
+    </view>
+    <view>
+      <image src="../../img/2_08.png"></image>
+      <text>WIFI</text>
+    </view>
+    <view>
+      <image src="../../img/2_16.png"></image>
+      <text>停车场</text>
+    </view>
+    <view>
+      <image src="../../img/right.png"></image>
+    </view>
+  </view>
+  <view class="location">
+    <view>
+      <view><image src="../../img/2_16.png"></image></view>
+      <view>
+        <view>上地世界辉煌国际席姐啦啦啦斤斤计较军军几女今日日公司狂人日记</view>
+        <view>距您步行60m</view>
+      </view>
+    </view>
+    <view>
+      <image src="../../img/2_20.png"></image>
+    </view>
+  </view>
+  <view class="num">
+    <view>
+      <image src="../../img/1_03.png"></image>
+      <view>上地小吃快餐热门榜 第<text>1</text>名</view>
+    </view>
+    <view><image src="../../img/right.png"></image></view>
+  </view>
+</view>
+</view>
