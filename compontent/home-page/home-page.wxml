@@ -1,6 +1,6 @@
 <view class="box">
   <view class='header'>
-    <view>
+    <view bindtap='location'>
       <text>北京</text>
       <image src="../../img/up.png"></image>
     </view>

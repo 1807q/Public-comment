@@ -1,4 +1,5 @@
 {
   "component": true,
+  "navigationBarTitleText": "城市选择",
   "usingComponents": {}
 }
