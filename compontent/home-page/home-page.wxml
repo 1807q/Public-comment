@@ -90,7 +90,7 @@
   </view> 
   <view class="like">猜你喜欢</view>
   <view class="content">
-  
+    <view><image src="../../img/2_03.png"></image></view>
   </view>
 </view>
 
