@@ -12,5 +12,85 @@
       <text>我的</text>
     </view>
   </view>
+  <view class="search"><image src="../../img/search.png"></image></view>
+  <view class="section">
+    <view class="logo_a">
+      <image src="../../img/3_15.png"></image>
+      <text>美食</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_17.png"></image>
+      <text>外卖</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_19.png"></image>
+      <text>休闲娱乐</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_21.png"></image>
+      <text>KTV</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_23.png"></image>
+      <text>景点/门票</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_30.png"></image>
+      <text>美食</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_31.png"></image>
+      <text>美食</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_32.png"></image>
+      <text>美食</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_33.png"></image>
+      <text>美食</text>
+    </view>
+    <view class="logo_a">
+      <image src="../../img/3_34.png"></image>
+      <text>美食</text>
+    </view>
+    <view>
+      <image src="../../img/3_40.png"  class="logo"></image>
+      <text>美食</text>
+    </view>
+    <view>
+      <image src="../../img/3_41.png"  class="logo"></image>
+      <text>美食</text>
+    </view>
+    <view>
+      <image src="../../img/3_42.png"  class="logo"></image>
+      <text>美食</text>
+    </view>
+    <view>
+      <image src="../../img/3_43.png"  class="logo"></image>
+      <text>美食</text>
+    </view>
+    <view>
+      <image src="../../img/3_44.png"  class="logo"></image>
+      <text>美食</text>
+    </view>
+  </view>
+  <view class="nav">
+    <view>
+      <image src="../../img/3.png"></image>
+      <text>美食热榜</text>
+    </view>
+     <view>
+      <image src="../../img/4.png"></image>
+      <text>今天吃啥</text>
+    </view>
+  </view>
+  <view class="question">
+    <image src="../../img/3_59.png"></image>
+  </view> 
+  <view class="like">猜你喜欢</view>
+  <view class="content">
+  
+  </view>
 </view>
 
