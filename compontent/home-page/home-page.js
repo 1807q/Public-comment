@@ -5,6 +5,11 @@ Component({
       wx.navigateTo({
         url: '../City/City'
       })
+    },
+    me:function(options){
+      wx.navigateTo({
+        url: '../personal/personal'
+      })
     }
   }
 })

@@ -1,0 +1,17 @@
+<!--compontent/personal/personal.wxml-->
+<view class='personal'>
+  <view class='header'>
+    <image src='../../img/312.jpg'></image>
+    <view>
+      <text>贇哥</text>
+      <text>男</text>
+    </view>
+    <view>
+      china
+    </view>
+  </view>
+  <view class='two'>
+    <text>收藏列表</text>
+    <image src='../../img/8.png'></image>
+  </view>
+</view>
