@@ -1,0 +1,57 @@
+<!--pages/City/City.wxml-->
+<view class='city'>
+  <view class='gps'>
+    <text>北京市</text>
+    <text>GPS定位</text>
+  </view>
+  <view class='Popular'>
+    <text>热门城市</text>
+    <view class='cs'>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+      <view>上海</view>
+    </view>
+  </view>
+  <view class='region'>
+    <text class='zimu'>A</text>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+  </view>
+  <view class='region'>
+    <text class='zimu'>B</text>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+    <view>啊吧嘎旗</view>
+  </view>
+</view>

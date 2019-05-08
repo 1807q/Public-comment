@@ -1,0 +1,78 @@
+/* compontent/City/City.wxss */
+/* pages/City/City.wxss */
+.city{
+  width: 100%;
+  height: 100%;
+}
+.gps{
+  width: 100%;
+  height: 100rpx;
+  border-bottom: 2rpx solid #DEDEDE; 
+  padding-left: 29rpx;
+  
+  line-height: 100rpx;
+}
+.gps>text:nth-of-type(1){
+  font-weight: 600;
+  font-size: 25rpx;
+}
+.gps>text:nth-of-type(2){
+  font-size: 21rpx;
+  color: #C1C1C1;
+  margin-left: 20rpx;
+}
+.Popular{
+  width: 100%;
+  /* height: 500rpx; */
+  background: #F0F0F0;
+  padding:20rpx 29rpx 20rpx 29rpx;
+  box-sizing: border-box;
+}
+.Popular>text:nth-of-type(1){
+  font-size: 25rpx;
+  color: #999999;
+}
+.cs{
+  width: 100%;
+  /* height: 100%; */
+  /* padding-top:20rpx;  */
+  padding-bottom:10rpx; 
+  display: flex;
+  justify-content: space-between;
+  flex-wrap:wrap; 
+}
+.cs>view{
+  width: 210rpx;
+  height: 73rpx;
+  background: white;
+  border: 2rpx solid #DEDEDE;
+  text-align: center;
+  line-height: 73rpx;
+  font-size: 25rpx;
+  font-weight: 550;
+  margin-top: 14rpx;
+}
+.region{
+  width: 100%;
+  /* height: 500rpx; */
+  /* background: red; */
+  padding-left:29rpx; 
+}
+.zimu{
+  width: 100%;
+  height: 50rpx;
+  display: block;
+  line-height: 50rpx;
+  font-size: 30rpx;
+  color: #999999;
+  background: #F0F0F0;
+  padding-left: 29rpx;
+  margin-left: -29rpx;
+}
+.region>view{
+  width: 96%;
+  height: 80rpx;
+  border-bottom: 2rpx solid #DEDEDE;
+  line-height: 80rpx;
+  font-size: 27rpx;
+}
