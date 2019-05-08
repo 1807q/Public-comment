@@ -1,9 +1,14 @@
 {
   "pages": [
+<<<<<<< HEAD
     "compontent/detail/detail",
+=======
+    "compontent/Nearbyshops/Nearbyshops",
+>>>>>>> 00aa4ad0ccacb40572293fd6fddecc2c82f4f8c4
     "compontent/home-page/home-page",
     "compontent/City/City",
     "compontent/personal/personal",
+    
     "pages/index/index",
     "pages/logs/logs"
   ],
